@@ -6,7 +6,7 @@ const app = Vue.createApp({
           id: 1,
           title: "Vue",
           link: {
-            url: "https.//vuejs.org",
+            url: "https://vuejs.org",
             src: "https://vuejs.org/images/logo.png"
           },
           text: "Complete component based user interface framework. Includes most core features. More common at startups than big companies."
